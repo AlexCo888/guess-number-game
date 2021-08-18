@@ -4,4 +4,4 @@
 
 This game was made for understanding how localStorage works.
 
-You can play it here: https://clever-chandrasekhar-e6a396.netlify.app/
+You can play it here: https://suspicious-swirles-ed19a4.netlify.app
